@@ -3,5 +3,5 @@
     <fullName>Check_Addresses</fullName>
     <active>true</active>
     <errorConditionFormula>false</errorConditionFormula>
-    <errorMessage>Test</errorMessage>
+    <errorMessage>Test on my branch</errorMessage>
 </ValidationRule>
